@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 11 10:34:11 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=AndBase_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.ab.util.AbDateUtil
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
